@@ -185,10 +185,10 @@ the [MIT License][mit].
 
   [bigos]: https://en.wikipedia.org/w/index.php?title=Bigos&oldid=489526950
   [jpeg]: https://en.wikipedia.org/w/index.php?title=JPEG&oldid=489286037
-  [scan]: scan.hs
-  [chunk]: chunk.hs
+  [scan]: https://github.com/jstepien/oh-no-my-flash-card-is-gone/blob/master/scan.hs
+  [chunk]: https://github.com/jstepien/oh-no-my-flash-card-is-gone/blob/master/chunk.hs
   [im]: http://www.imagemagick.org/
   [et]: http://www.sno.phy.queensu.ca/~phil/exiftool/
-  [rescue]: rescue.hs
+  [rescue]: https://github.com/jstepien/oh-no-my-flash-card-is-gone/blob/master/rescue.hs
   [cc]: http://creativecommons.org/licenses/by-nc-sa/3.0/
   [mit]: https://en.wikipedia.org/w/index.php?title=MIT_License&oldid=488497962#License_terms
